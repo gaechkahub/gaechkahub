@@ -8,7 +8,7 @@
 
 - 🌱 I’m also currently learning [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) (Harvard, online)
 
-- 💬  Ask me about remote support. I love to solve any problems with laptops software and hardware.
+- 💬  Ask me about remote support. I love to solve any problems with computer software and hardware.
 
 - 📫  How to reach me: keozon@gmail.com, https://github.com/gaechkahub, [LinkedIn](https://www.linkedin.com/in/odrinl/)
 
