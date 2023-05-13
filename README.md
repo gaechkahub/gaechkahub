@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1>My name is Audrey</h1>
-<h3>Currently studying full-stack web development at the HackYourFuture project (Amsterdam) and planning in the near future to become a back-end developer and to move to The Hague</h3>
+<h3>Planning in the near future to become a back-end developer and to move to the Hague</h3>
 
 
 - I’m currently studying at [FullStack Web Development course @HackYourFuture](https://www.hackyourfuture.net/) (Amsterdam)
