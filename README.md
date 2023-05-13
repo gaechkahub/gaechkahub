@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1>My name is Audrey</h1>
-<h3>Planning in the near future to become a back-end developer and to move to the Hague</h3>
+<h3>My goal is to become a back-end web developer and move to The Hague</h3>
 
 
 - I’m currently studying on [FullStack Web Development course @HackYourFuture](https://www.hackyourfuture.net/) (Amsterdam)
