@@ -6,7 +6,7 @@
 
 - I’m currently studying at [FullStack Web Development course @HackYourFuture](https://www.hackyourfuture.net/) (Amsterdam)
 
-- 🌱 I’m also currently learning [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/)
+- 🌱 I’m also currently learning [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) (Harvard, online)
 
 - 💬  Ask me about remote support. I love to solve any problems with laptops software and hardware.
 
