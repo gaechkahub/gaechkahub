@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <h1>My name is Audrey</h1>
-<h3>My goal is to become a back-end web developer and move to The Hague</h3>
+<h3>I’m currently working on... to become a back-end web developer and move to The Hague</h3>
 
 
 - I’m currently studying on [FullStack Web Development course @HackYourFuture](https://www.hackyourfuture.net/) (Amsterdam)
 
-- 🌱 I’m also currently learning [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) (Harvard, online)
+- 🌱 I’m also learning [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) (Harvard, online)
 
 - 💬  Ask me about remote support. I love to solve any problems with computer software and hardware.
 
