@@ -10,17 +10,13 @@
 
 - 💬  Ask me about remote support. I love to solve any problems with computer software and hardware.
 
-- 📫  How to reach me: keozon@gmail.com, https://github.com/gaechkahub, [LinkedIn](https://www.linkedin.com/in/odrinl/)
+- 📫  How to reach me: keozon@gmail.com, [LinkedIn](https://www.linkedin.com/in/odrinl/)
+
+- My portfolio with websites: [Codepen](https://codepen.io/audreynl)
 
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/audreynl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt=" my portfolio of websites" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/odrinl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my LinkedIn profile" height="30" width="40" /></a>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and tools I use:</h3>
 
 <p align="left">
   
