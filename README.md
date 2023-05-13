@@ -12,7 +12,7 @@
 
 - 📫  How to reach me: keozon@gmail.com, [LinkedIn](https://www.linkedin.com/in/odrinl/), [Facebook](https://www.facebook.com/odrinl)
 
-- My portfolio with websites: [Codepen](https://codepen.io/audreynl)
+- My portfolio of websites is here: [Codepen](https://codepen.io/audreynl)
 
 
 
