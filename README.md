@@ -50,11 +50,11 @@
   </a>
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="nodejs" width="50" height="50"/> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/> 
   </a> 
   
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="50" height="50"/> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" alt="Python" width="50" height="50"/> 
   </a> 
   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
@@ -62,6 +62,6 @@
   </a> 
     
   <a href="https://www.autodesk.eu/products/autocad/overview" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AutoCAD-Dark.svg" alt="Autocad" width="50" height="50"/> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AutoCAD-Light.svg" alt="Autocad" width="50" height="50"/> 
   </a> 
 </p>
