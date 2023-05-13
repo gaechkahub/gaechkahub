@@ -4,7 +4,7 @@
 <h3>Planning in the near future to become a back-end developer and to move to the Hague</h3>
 
 
-- I’m currently studying at [FullStack Web Development course @HackYourFuture](https://www.hackyourfuture.net/) (Amsterdam)
+- I’m currently studying on [FullStack Web Development course @HackYourFuture](https://www.hackyourfuture.net/) (Amsterdam)
 
 - 🌱 I’m also currently learning [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) (Harvard, online)
 
