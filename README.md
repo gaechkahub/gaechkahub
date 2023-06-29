@@ -12,8 +12,8 @@
 - 📫  How to reach me: keozon@gmail.com, [LinkedIn](https://www.linkedin.com/in/odrinl/), [Facebook](https://www.facebook.com/odrinl)
 
 ### My portfolio of websites and apps:
-  1. [Website Yoga Asnas](https://odrinl.github.io/website-yoga-asanas/)
-  2. [Team project Quiz JavaScript App](https://odrinl.github.io/team-project-quiz-app/)
+  1. [**Website Yoga Asnas**](https://odrinl.github.io/website-yoga-asanas/) ([https://github.com/odrinl/website-yoga-asanas](https://github.com/odrinl/website-yoga-asanas))
+  2. [**Team project Quiz JavaScript App**](https://odrinl.github.io/team-project-quiz-app/) ([https://github.com/odrinl/website-yoga-asanas](https://github.com/odrinl/team-project-quiz-app))
 
 <p>&nbsp;</p>
 
