@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-<h1>My name is Audrey</h1>
-<h3>I’m currently working on... to become a back-end web developer and move to The Hague</h3>
+# My name is Audrey
+### I’m currently working on... to become a back-end web developer and move to The Hague
 
 
 - I’m currently studying on [FullStack Web Development course @HackYourFuture](https://www.hackyourfuture.net/) (Amsterdam)
@@ -12,7 +11,9 @@
 
 - 📫  How to reach me: keozon@gmail.com, [LinkedIn](https://www.linkedin.com/in/odrinl/), [Facebook](https://www.facebook.com/odrinl)
 
-- My portfolio of websites is here: [Codepen](https://codepen.io/audreynl)
+### My portfolio of websites and apps:
+  1. [Website Yoga Asnas](https://odrinl.github.io/website-yoga-asanas/)
+  2. [Team project Quiz JavaScript App](https://odrinl.github.io/team-project-quiz-app/)
 
 <p>&nbsp;</p>
 
