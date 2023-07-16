@@ -13,7 +13,8 @@
 
 ### My portfolio of websites and apps:
   1. [**Website Yoga Asnas**](https://odrinl.github.io/website-yoga-asanas/) ([https://github.com/odrinl/website-yoga-asanas](https://github.com/odrinl/website-yoga-asanas))
-  2. [**Team project Quiz JavaScript App**](https://odrinl.github.io/team-project-quiz-app/) ([https://github.com/odrinl/website-yoga-asanas](https://github.com/odrinl/team-project-quiz-app))
+  2. [**Team project Quiz JavaScript Web App**](https://odrinl.github.io/team-project-quiz-app/) ([https://github.com/odrinl/team-project-quiz-app](https://github.com/odrinl/team-project-quiz-app))
+  3. [**API Project Dutch Word Web App**](https://odrinl.github.io/API-project-Dutch-Word/) ([https://github.com/odrinl/API-project-Dutch-Word](https://github.com/odrinl/API-project-Dutch-Word))
 
 <p>&nbsp;</p>
 
@@ -64,5 +65,9 @@
     
   <a href="https://www.autodesk.eu/products/autocad/overview" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AutoCAD-Light.svg" alt="Autocad" width="50" height="50"/> 
+  </a> 
+
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Light.svg" alt="VSCode" width="50" height="50"/> 
   </a> 
 </p>
