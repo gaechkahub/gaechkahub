@@ -14,7 +14,7 @@
 ### My portfolio of websites and apps:
   1. [**Website Yoga Asnas**](https://odrinl.github.io/website-yoga-asanas/) ([https://github.com/odrinl/website-yoga-asanas](https://github.com/odrinl/website-yoga-asanas))
   2. [**Team project Quiz JavaScript Web App**](https://odrinl.github.io/team-project-quiz-app/) ([https://github.com/odrinl/team-project-quiz-app](https://github.com/odrinl/team-project-quiz-app))
-  3. [**API Project Dutch Word Web App**](https://odrinl.github.io/dutch/) ([https://github.com/odrinl/API-project-Dutch-Word](https://github.com/odrinl/API-project-Dutch-Word))
+  3. [**API Project Dutch Word Web App**](https://odrinl.github.io/dutch/) ([https://github.com/odrinl/dutch](https://github.com/odrinl/dutch))
 
 <p>&nbsp;</p>
 
