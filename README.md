@@ -1,11 +1,11 @@
 ### Hi there 👋
 # My name is Audrey
-### I’m currently working on... to become a back-end web developer and move to The Hague
+### I’m currently working on... to become a back-end web developer
 
 
-- I’m currently studying on [FullStack Web Development course @HackYourFuture](https://www.hackyourfuture.net/) (Amsterdam)
+- I've graduated from [FullStack Web Development course @HackYourFuture](https://www.hackyourfuture.net/) (Amsterdam)
 
-- 🌱 I’m also learning [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) (Harvard, online)
+- 🌱 I’m also learning Python and [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) (Harvard, online)
 
 - 💬  Ask me about remote support. I love to solve any problems with computer software and hardware.
 
@@ -15,6 +15,8 @@
   1. [**Website Yoga Asnas**](https://odrinl.github.io/website-yoga-asanas/) ([https://github.com/odrinl/website-yoga-asanas](https://github.com/odrinl/website-yoga-asanas))
   2. [**Team project Quiz JavaScript Web App**](https://odrinl.github.io/team-project-quiz-app/) ([https://github.com/odrinl/team-project-quiz-app](https://github.com/odrinl/team-project-quiz-app))
   3. [**API Project Dutch Word Web App**](https://odrinl.github.io/dutch/) ([https://github.com/odrinl/dutch](https://github.com/odrinl/dutch))
+  4. [**Dutch Comics, React API project**](https://dutchcomics.netlify.app/) ([https://github.com/odrinl/dutch-comics](https://github.com/odrinl/dutch-comics)
+  5. [**Diploma project - Social network for refugees "AzielNet"**](https://c44-group-a-574c03ac3629.herokuapp.com/) ([https://github.com/HackYourFuture/class44-project-group-A](https://github.com/HackYourFuture/class44-project-group-A)
 
 <p>&nbsp;</p>
 
