@@ -1,6 +1,6 @@
 ### Hi there 👋
 # My name is Audrey
-### I’m currently working on... to become a back-end web developer
+### I’m currently working on to become a back-end web developer
 
 
 - I've graduated from [FullStack Web Development course @HackYourFuture](https://www.hackyourfuture.net/) (Amsterdam)
